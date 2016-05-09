@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: '[CPG] Caladan.CC'
-datePublished: '2016-05-04T11:44:29.008Z'
-dateModified: '2016-05-04T11:44:15.819Z'
+description: 'Caladan Property Group Inc.is dedicated to acquiring, improving, and delivering safe, functional, high quality properties. We specialize in finding single family homes with fenced in back yards in the Lansing area, however, we are expanding and would welcome more challenges in the near future. '
+datePublished: '2016-05-09T21:53:04.868Z'
+dateModified: '2016-05-09T21:53:04.309Z'
 title: ''
 author: []
 authors: []
@@ -17,14 +17,11 @@ publisher:
   favicon: null
 starred: false
 sourcePath: _posts/2016-05-04-cpg-caladancc.md
-published: true
 url: cpg-caladancc/index.html
 _type: Article
 
 ---
-\[CPG\] Caladan.CC
-
-Caladan Property Group Inc.is dedicated to acquiring, improving, and delivering safe, functional, high quality properties. We specialize in finding single family homes with fenced in back yards in the Lansing area, however, we are expanding and would welcome more challenges in the near future. Caladan.CC
+Caladan Property Group Inc.is dedicated to acquiring, improving, and delivering safe, functional, high quality properties. We specialize in finding single family homes with fenced in back yards in the Lansing area, however, we are expanding and would welcome more challenges in the near future. 
 
 Phone: (517) 441 - 9548
 
@@ -41,13 +38,10 @@ Property management services are available:
 
 We also have extensive experience in skilled labor and restoring your assets to a clean and functional high quality of standard.
 
-Project Managment:
+Project Management:
 
 1. Repair or installation of mechanicals (Plumbing, electrical, and HVAC).
 2. General construction, roofing, and painting.
 3. Property restoration for trash or debry removal, cleaning, and general sanitation. This includes lawn and snow removal.
-
-  
-
 
 [0]: https://en.wikipedia.org/wiki/Renting "Renting"
