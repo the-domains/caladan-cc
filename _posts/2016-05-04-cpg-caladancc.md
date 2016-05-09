@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Caladan Property Group is dedicated to acquiring, improving, and delivering safe, functional, high quality properties. We specialize in finding single family homes with fenced in back yards in the Lansing area, however, we are expanding and would welcome more challenges in the near future. '
-datePublished: '2016-05-09T22:10:40.693Z'
-dateModified: '2016-05-09T21:55:00.381Z'
+datePublished: '2016-05-09T23:02:59.725Z'
+dateModified: '2016-05-09T23:02:42.487Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-cpg-caladancc.md
