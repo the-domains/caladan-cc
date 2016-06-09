@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[caladan]]></title>
         <description><![CDATA[caladan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://caladan.cc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 18:35:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 09 Jun 2016 18:43:44 GMT</lastBuildDate>
+        <atom:link href="http://caladan.cc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/afd5c594-b0dc-4b4e-a41f-a6595728d3ca.png">]]></description>
+            <link>http://caladan.cc/edaaaa3c-28dc-453b-8087-eb955d82e2bc/index.html</link>
+            <guid isPermaLink="false">edaaaa3c-28dc-453b-8087-eb955d82e2bc</guid>
+            <pubDate>Thu, 09 Jun 2016 18:43:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b195f37-e953-4ef4-b29b-597754afe648.jpg">]]></description>
-            <link>undefinedcaladan-property-group-inc-is-dedicated-to-acquiring-improv/index.html</link>
+            <link>http://caladan.cc/caladan-property-group-inc-is-dedicated-to-acquiring-improv/index.html</link>
             <guid isPermaLink="false">6be3e73b-3f68-4cdd-a36e-7478ddb46d29</guid>
             <pubDate>Thu, 09 Jun 2016 18:35:23 GMT</pubDate>
         </item>
