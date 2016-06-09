@@ -4,8 +4,15 @@
         <description><![CDATA[caladan]]></description>
         <link>http://caladan.cc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 19:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 19:13:41 GMT</lastBuildDate>
         <atom:link href="http://caladan.cc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b195f37-e953-4ef4-b29b-597754afe648.jpg">]]></description>
+            <link>http://caladan.cc/caladan-property-group-inc-is-dedicated-to-acquiring-improv/index.html</link>
+            <guid isPermaLink="false">6be3e73b-3f68-4cdd-a36e-7478ddb46d29</guid>
+            <pubDate>Thu, 09 Jun 2016 19:13:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Property management services are available:</p>]]></description>
@@ -26,13 +33,6 @@
             <link>http://caladan.cc/2fb0d6f0-0483-464f-b54a-85cdabe825fc/index.html</link>
             <guid isPermaLink="false">2fb0d6f0-0483-464f-b54a-85cdabe825fc</guid>
             <pubDate>Thu, 09 Jun 2016 18:50:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b195f37-e953-4ef4-b29b-597754afe648.jpg">]]></description>
-            <link>http://caladan.cc/caladan-property-group-inc-is-dedicated-to-acquiring-improv/index.html</link>
-            <guid isPermaLink="false">6be3e73b-3f68-4cdd-a36e-7478ddb46d29</guid>
-            <pubDate>Thu, 09 Jun 2016 18:35:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
