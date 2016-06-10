@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
@@ -9,14 +9,14 @@ description: >-
   delivering safe, functional, high quality properties. We specialize in finding
   single family homes with fenced in back yards in the Lansing area, however, we
   are expanding and would welcome more challenges in the near future.
-datePublished: '2016-06-09T19:13:39.501Z'
-dateModified: '2016-06-09T18:39:53.137Z'
-authors: []
-publisher: null
+datePublished: '2016-06-10T01:46:40.147Z'
+dateModified: '2016-06-10T01:45:43.811Z'
 title: ''
 author: []
 sourcePath: >-
   _posts/2016-06-09-caladan-property-group-inc-is-dedicated-to-acquiring-improv.md
+authors: []
+publisher: null
 starred: true
 url: caladan-property-group-inc-is-dedicated-to-acquiring-improv/index.html
 _type: Article
